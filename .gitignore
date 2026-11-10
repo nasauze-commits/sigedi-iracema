@@ -1,0 +1,4 @@
+dados_privados/
+*backup*.json
+*servidores*.json
+*.xlsx
